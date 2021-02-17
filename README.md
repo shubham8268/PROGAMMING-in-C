@@ -1,1 +1,1 @@
-# matrix-in-c
+#progamming in c
